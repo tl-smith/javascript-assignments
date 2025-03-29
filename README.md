@@ -1,7 +1,7 @@
 # Boxing Game
 A simple turn-based boxing game implemented in JavaScript. Players take turns attacking each other with randomly generated damage values. The game ends when one player's health drops to 0 or below, and the other player is declared the winner.
 
-##Game Rules:
+## Game Rules:
 - Players take turns attacking each other.
 
 - Damage is randomly generated between 1 and 10.
